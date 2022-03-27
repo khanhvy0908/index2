@@ -1,0 +1,8 @@
+.one{
+    height: 500px;
+    width: 600px;
+    background-color: blue;
+    position:absolute;
+    top: 65%;
+    left: 50%;
+}
